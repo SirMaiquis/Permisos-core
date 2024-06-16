@@ -1,0 +1,789 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\tests\\controllers\\tipopermisocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\tipopermisocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|solutionrelative:api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\tests\\controllers\\permisocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\permisocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\tests\\repositories\\tipopermisorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|solutionrelative:tests\\repositories\\tipopermisorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\tests\\repositories\\permisorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|solutionrelative:tests\\repositories\\permisorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\repositories\\permisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\repositories\\permisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\tests\\services\\tipopermisoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|solutionrelative:tests\\services\\tipopermisoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\tests\\services\\permisoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB3D983-1FC2-43B2-B564-5DF7AC9E6E14}|Tests\\Tests.csproj|solutionrelative:tests\\services\\permisoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\profiles\\tipopermisoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\profiles\\tipopermisoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\profiles\\permisoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\profiles\\permisoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\models\\tipopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\models\\tipopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\models\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\models\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\api\\controllers\\permisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|solutionrelative:api\\controllers\\permisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\repositories\\tipopermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\repositories\\tipopermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\services\\tipopermisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\services\\tipopermisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\services\\permisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\services\\permisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\api\\controllers\\tipopermisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|solutionrelative:api\\controllers\\tipopermisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\interfaces\\ipermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\interfaces\\ipermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\ioc\\repositoryregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\ioc\\repositoryregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\interfaces\\itipopermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\interfaces\\itipopermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\dtos\\permisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\dtos\\permisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\dtos\\tipopermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\dtos\\tipopermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\ioc\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\ioc\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\ioc\\profileregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\ioc\\profileregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\dtos\\basedto\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\dtos\\basedto\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\models\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\models\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\dtos\\basedto\\ibasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\dtos\\basedto\\ibasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\configuration\\tipopermisoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\configuration\\tipopermisoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616202632_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\Migrations\\20240616202632_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\interfaces\\ipermisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ipermisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\configuration\\permisoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\configuration\\permisoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616201825_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\Migrations\\20240616201825_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616194358_AddApellidosEmpleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\Migrations\\20240616194358_AddApellidosEmpleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5486AF1-D6EB-4195-B169-363AD216AD37}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\services\\interfaces\\itipopermisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D4517-F514-4302-B370-038A0A53966E}|Services\\Services.csproj|solutionrelative:services\\interfaces\\itipopermisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|c:\\users\\maiqu\\source\\repos\\permisos-core\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B79DC136-9264-4B22-BBA7-1D9964AC75EB}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoPermisoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Repositories\\TipoPermisoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Repositories\\TipoPermisoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Repositories\\TipoPermisoRepositoryTests.cs",
+              "RelativeToolTip": "Tests\\Repositories\\TipoPermisoRepositoryTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:59:37.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermisoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Repositories\\PermisoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Repositories\\PermisoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Repositories\\PermisoRepositoryTests.cs",
+              "RelativeToolTip": "Tests\\Repositories\\PermisoRepositoryTests.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:56:17.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoPermisoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Services\\TipoPermisoServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\TipoPermisoServiceTests.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Services\\TipoPermisoServiceTests.cs",
+              "RelativeToolTip": "Tests\\Services\\TipoPermisoServiceTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:54:59.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PermisoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Services\\PermisoServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\PermisoServiceTests.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Services\\PermisoServiceTests.cs",
+              "RelativeToolTip": "Tests\\Services\\PermisoServiceTests.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:54:33.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoPermisoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Controllers\\TipoPermisoControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Controllers\\TipoPermisoControllerTests.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Controllers\\TipoPermisoControllerTests.cs",
+              "RelativeToolTip": "Tests\\Controllers\\TipoPermisoControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:50:04.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermisoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Controllers\\PermisoControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Controllers\\PermisoControllerTests.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Tests\\Controllers\\PermisoControllerTests.cs",
+              "RelativeToolTip": "Tests\\Controllers\\PermisoControllerTests.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAYwFsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:42:11.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PermisoController.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Controllers\\PermisoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PermisoController.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Controllers\\PermisoController.cs",
+              "RelativeToolTip": "API\\Controllers\\PermisoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:46:43.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "DATA\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:51:57.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Repositories\\PermisoRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Repositories\\PermisoRepository.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Repositories\\PermisoRepository.cs",
+              "RelativeToolTip": "DATA\\Repositories\\PermisoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:54:09.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "API\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:22:40.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DATA\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DATA\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:15:49.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TipoPermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Repositories\\TipoPermisoRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Repositories\\TipoPermisoRepository.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Repositories\\TipoPermisoRepository.cs",
+              "RelativeToolTip": "DATA\\Repositories\\TipoPermisoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:54:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermisoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Profiles\\PermisoProfile.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Profiles\\PermisoProfile.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Profiles\\PermisoProfile.cs",
+              "RelativeToolTip": "SERVICES\\Profiles\\PermisoProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:41:23.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Models\\Permiso.cs",
+              "RelativeDocumentMoniker": "DATA\\Models\\Permiso.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Models\\Permiso.cs",
+              "RelativeToolTip": "DATA\\Models\\Permiso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:13:59.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoPermiso.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Models\\TipoPermiso.cs",
+              "RelativeDocumentMoniker": "DATA\\Models\\TipoPermiso.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Models\\TipoPermiso.cs",
+              "RelativeToolTip": "DATA\\Models\\TipoPermiso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:14:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoPermisoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Profiles\\TipoPermisoProfile.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Profiles\\TipoPermisoProfile.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Profiles\\TipoPermisoProfile.cs",
+              "RelativeToolTip": "SERVICES\\Profiles\\TipoPermisoProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:56:55.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TipoPermisoController.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Controllers\\TipoPermisoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TipoPermisoController.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Controllers\\TipoPermisoController.cs",
+              "RelativeToolTip": "API\\Controllers\\TipoPermisoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:47:39.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "DATA\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:52:53.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Interfaces\\IPermisoRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Interfaces\\IPermisoRepository.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Interfaces\\IPermisoRepository.cs",
+              "RelativeToolTip": "DATA\\Interfaces\\IPermisoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:56:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PermisoService.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Services\\PermisoService.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Services\\PermisoService.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Services\\PermisoService.cs",
+              "RelativeToolTip": "SERVICES\\Services\\PermisoService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:43:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TipoPermisoService.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Services\\TipoPermisoService.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Services\\TipoPermisoService.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Services\\TipoPermisoService.cs",
+              "RelativeToolTip": "SERVICES\\Services\\TipoPermisoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:43:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:17:57.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RepositoryRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\IoC\\RepositoryRegistry.cs",
+              "RelativeDocumentMoniker": "DATA\\IoC\\RepositoryRegistry.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\IoC\\RepositoryRegistry.cs",
+              "RelativeToolTip": "DATA\\IoC\\RepositoryRegistry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:09:42.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T18:16:34.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServiceRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\IoC\\ServiceRegistry.cs",
+              "RelativeDocumentMoniker": "SERVICES\\IoC\\ServiceRegistry.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\IoC\\ServiceRegistry.cs",
+              "RelativeToolTip": "SERVICES\\IoC\\ServiceRegistry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:14:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PermisoDto.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Dtos\\PermisoDto.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Dtos\\PermisoDto.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Dtos\\PermisoDto.cs",
+              "RelativeToolTip": "SERVICES\\Dtos\\PermisoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:39:03.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProfileRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\IoC\\ProfileRegistry.cs",
+              "RelativeDocumentMoniker": "SERVICES\\IoC\\ProfileRegistry.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\IoC\\ProfileRegistry.cs",
+              "RelativeToolTip": "SERVICES\\IoC\\ProfileRegistry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:47:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TipoPermisoDto.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Dtos\\TipoPermisoDto.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Dtos\\TipoPermisoDto.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Dtos\\TipoPermisoDto.cs",
+              "RelativeToolTip": "SERVICES\\Dtos\\TipoPermisoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:56:11.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITipoPermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Interfaces\\ITipoPermisoRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Interfaces\\ITipoPermisoRepository.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Interfaces\\ITipoPermisoRepository.cs",
+              "RelativeToolTip": "DATA\\Interfaces\\ITipoPermisoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:56:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T18:16:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Dtos\\BaseDto\\BaseDto.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Dtos\\BaseDto\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Dtos\\BaseDto\\BaseDto.cs",
+              "RelativeToolTip": "SERVICES\\Dtos\\BaseDto\\BaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:37:13.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Dtos\\BaseDto\\IBaseDto.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Dtos\\BaseDto\\IBaseDto.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Dtos\\BaseDto\\IBaseDto.cs",
+              "RelativeToolTip": "SERVICES\\Dtos\\BaseDto\\IBaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:37:54.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Interfaces\\IBaseService.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Interfaces\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Interfaces\\IBaseService.cs",
+              "RelativeToolTip": "SERVICES\\Interfaces\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:27:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PermisoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Configuration\\PermisoConfiguration.cs",
+              "RelativeDocumentMoniker": "DATA\\Configuration\\PermisoConfiguration.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Configuration\\PermisoConfiguration.cs",
+              "RelativeToolTip": "DATA\\Configuration\\PermisoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:16:57.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TipoPermisoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Configuration\\TipoPermisoConfiguration.cs",
+              "RelativeDocumentMoniker": "DATA\\Configuration\\TipoPermisoConfiguration.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Configuration\\TipoPermisoConfiguration.cs",
+              "RelativeToolTip": "DATA\\Configuration\\TipoPermisoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:35:19.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Models\\BaseEntity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DATA\\Models\\BaseEntity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Models\\BaseEntity\\BaseEntity.cs",
+              "RelativeToolTip": "DATA\\Models\\BaseEntity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:29:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPermisoService.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Interfaces\\IPermisoService.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Interfaces\\IPermisoService.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Interfaces\\IPermisoService.cs",
+              "RelativeToolTip": "SERVICES\\Interfaces\\IPermisoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:42:08.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240616201825_InitialCreation.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616201825_InitialCreation.cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20240616201825_InitialCreation.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616201825_InitialCreation.cs",
+              "RelativeToolTip": "DATA\\Migrations\\20240616201825_InitialCreation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:18:25.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240616202632_InitialCreation.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616202632_InitialCreation.cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20240616202632_InitialCreation.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616202632_InitialCreation.cs",
+              "RelativeToolTip": "DATA\\Migrations\\20240616202632_InitialCreation.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwFAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:32.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ITipoPermisoService.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Interfaces\\ITipoPermisoService.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Interfaces\\ITipoPermisoService.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\SERVICES\\Interfaces\\ITipoPermisoService.cs",
+              "RelativeToolTip": "SERVICES\\Interfaces\\ITipoPermisoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:42:44.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240616194358_AddApellidosEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616194358_AddApellidosEmpleado.cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20240616194358_AddApellidosEmpleado.cs",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\DATA\\Migrations\\20240616194358_AddApellidosEmpleado.cs",
+              "RelativeToolTip": "DATA\\Migrations\\20240616194358_AddApellidosEmpleado.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:43:59.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T19:36:47.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T18:24:29.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T19:17:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\maiqu\\source\\repos\\Permisos-core\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T18:25:51.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
